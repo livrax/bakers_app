@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bakers</string>
+    <string name="no_internet_message">There is no internet connection</string>
+    <string name="recipe_missing">The recipe does not exists</string>
+    <string name="appwidget_text">Widget</string>
+    <string name="refresh_widget_message">Recipe added to Widget</string>
+    <string name="log_network_connection">Network Connection</string>
+    <string name="servings_count_label">Servings: %s</string>
+    <string name="ingredients_count_label">Ingredients: %s</string>
+    <string name="steps_count_label">Steps: %s</string>
+    <string name="ingredients_label">Ingredients</string>
+    <string name="step_label">Steps</string>
+</resources>
